@@ -1,3 +1,3 @@
 # vagante_issues
-Public issues-only github repo
+This is the public issue tracker for the game [Vagante](http://vagantegame.com).
 
